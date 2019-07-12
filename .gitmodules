@@ -1,0 +1,3 @@
+[submodule "packages/@vue/cli-plugin-mpqh"]
+	path = packages/@vue/cli-plugin-mpqh
+	url = git@github.com:zhanpingrao/cli-plugin-mpqh.git
